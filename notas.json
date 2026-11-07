@@ -1,0 +1,40 @@
+{
+  "estudiante": "",
+  "semestre": "2do Semestre",
+  "idioma": "es",
+  "ramos": [
+    {
+      "nombre": "Ingles intermedio",
+      "evaluaciones": [
+        {
+          "nombre": "prueba 1",
+          "nota": 2.9,
+          "porcentaje": 32.0
+        },
+        {
+          "nombre": "prueba 2",
+          "nota": 2.1,
+          "porcentaje": 12.0
+        },
+        {
+          "nombre": "prueba 5",
+          "nota": 7.0,
+          "porcentaje": 12.0
+        },
+        {
+          "nombre": "prueba 3",
+          "nota": 4.5,
+          "porcentaje": 32.0
+        },
+        {
+          "nombre": "prueba 4",
+          "nota": 4.0,
+          "porcentaje": 12.0
+        }
+      ],
+      "tiene_examen": true,
+      "nota_examen": "3.9",
+      "color": "#fff9c4"
+    }
+  ]
+}
