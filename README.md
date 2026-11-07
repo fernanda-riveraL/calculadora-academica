@@ -1,4 +1,5 @@
 # Calculadora Académica & Gestor de Ramos ✨
+![Vista previa de la Calculadora Académica](preview.png)
 
 Una aplicación de escritorio moderna desarrollada en **Python** con **CustomTkinter** para gestionar calificaciones universitarias, calcular notas ponderadas y simular promedios de aprobación mediante persistencia en archivos **JSON**.
 
